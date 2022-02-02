@@ -2,7 +2,7 @@ Matthew Rottinghaus - Colorado School of Mines
 
 B.S. Computer Science + Computer Engineering May 2022, M.S. Computer Science May 2023
 
-Languages: C++, Python, Java, R, PostgreSQL, MIPS Assembly
+Languages: C++, Python, Java, R, PostgreSQL, MIPS Assembly, OCaml
 
 Skills: Agile Development, UML Diagrams, Technical Writting
 
